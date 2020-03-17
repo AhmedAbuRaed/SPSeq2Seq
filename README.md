@@ -20,8 +20,7 @@ you can also find a trainining, validation and testing datasets at the DataSet f
 
 ## resources
 Used to filter the data:
-presentation_noun.lst
-first_pron.lst
+presentation_noun.lst and first_pron.lst
 
 Used by the JAVA classes
 Utilities.java
