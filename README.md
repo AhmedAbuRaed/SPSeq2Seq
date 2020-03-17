@@ -2,7 +2,9 @@
 This repo contains the tools and data to reproduce the work that has been done on the scientific paper published at <XXX>.
 ## OpenNMT-py   
   
-First of all you will need OpenNMT-py, we recoomend following the offical doc page : https://opennmt.net/OpenNMT-py/main.html   
+First of all you will need OpenNMT-py, we recoomend following the offical doc page: 
+
+https://opennmt.net/OpenNMT-py/main.html   
 
 We recommend getting the sources: 
 
