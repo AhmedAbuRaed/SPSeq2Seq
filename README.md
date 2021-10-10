@@ -54,7 +54,7 @@ Replace citation markers with <CITE>: preprocesstarget.py
 
 PS: you have to replace XXX with your own MAG code or with your Elastic Server IP to index them.    
 
-## implemnettaion
+## Implementation
 ### internal representation
 ``` 
 python3.6 preprocess.py -train_src data/TACClosest4/train.txt.src -train_tgt data/TACClosest4/train.txt.tgt.tagged -valid_src data/TACClosest4/val.txt.src -valid_tgt data/TACClosest4/val.txt.tgt.tagged -save_data data/TACClosest4/TACClosest4 -src_seq_length 10000 -tgt_seq_length 10000 -src_seq_length_trunc 600 -tgt_seq_length_trunc 200 -dynamic_dict -share_vocab -shard_size 100000
